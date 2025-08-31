@@ -14,9 +14,10 @@
 About Me
 ------------------------------------------------
 
-💡 I’m an AI/ML Engineering student exploring the exciting world of artificial intelligence, machine learning, and data-driven solutions. Alongside my journey in AI, I’m also passionate about UI/UX design and front-end development, where I craft beautiful, interactive, and user-friendly websites.
+💡 **I’m an AI/ML Engineering student exploring the exciting world of artificial intelligence, machine learning, and data-driven solutions. Alongside my journey in AI, I’m also passionate about UI/UX design and front-end development, where I craft beautiful, interactive, and user-friendly websites.**
 
-🔬 My interests lie in blending technical depth with creativity — building intelligent systems while designing interfaces that are both functional and visually engaging.
+**🔬 My interests lie in blending technical depth with creativity — building intelligent systems while designing interfaces that are both functional and visually engaging.**
+
 
 🌱 Currently, I’m:
 
@@ -31,6 +32,8 @@ Exploring how AI can enhance user experiences in digital applications.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [samarthbusiness18@gmail.com](mailto:samarthbusiness18@gmail.com)
 * 👥  I'm looking to collaborate on Interesting projects
+
+### Tools I Know
 
 <p align="left">
 <table>
@@ -57,6 +60,8 @@ Exploring how AI can enhance user experiences in digital applications.
   <tr>
     <td><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></td>
     <td><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></td>
+    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></td>
   </tr>
 </table>
 
