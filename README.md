@@ -20,21 +20,6 @@ About Me
 
 **🔬 My interests lie in blending technical depth with creativity — building intelligent systems while designing interfaces that are both functional and visually engaging.**
 
-
-🌱 Currently, I’m:
-
-Learning and experimenting with AI & Machine Learning models.
-
-Building UI-rich projects with React, Tailwind CSS, and modern design systems.
-
-Exploring how AI can enhance user experiences in digital applications.
-
-⚡ With a passion for both innovation and design, I aim to create projects that don’t just work well, but also look and feel great.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [samarthbusiness18@gmail.com](mailto:samarthbusiness18@gmail.com)
-* 👥  I'm looking to collaborate on Interesting projects
-
 ### Tools I Know
 
 <p align="left">
@@ -68,6 +53,22 @@ Exploring how AI can enhance user experiences in digital applications.
 </table>
 
 </p>
+
+🌱 Currently, I’m:
+
+Learning and experimenting with AI & Machine Learning models.
+
+Building UI-rich projects with React, Tailwind CSS, and modern design systems.
+
+Exploring how AI can enhance user experiences in digital applications.
+
+⚡ With a passion for both innovation and design, I aim to create projects that don’t just work well, but also look and feel great.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [samarthbusiness18@gmail.com](mailto:samarthbusiness18@gmail.com)
+* 👥  I'm looking to collaborate on Interesting projects
+
+
 
 ### Socials
 
