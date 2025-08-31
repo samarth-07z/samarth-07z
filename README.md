@@ -1,7 +1,17 @@
 **Hi 👋 My name is Samarth S**
 ==================================================================================================================================
 
-Artificial Intelligence & ML Engineering Student
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=900&lines=I+am+an+AI%2FML+Engineering+Student;Passionately+building+UI%2FUX+websites;Exploring+Artificial+Intelligence+%26+Machine+Learning"
+    alt="Typing animation"
+  />
+</p>
+
+
+
+
+About Me
 ------------------------------------------------
 
 💡 I’m an AI/ML Engineering student exploring the exciting world of artificial intelligence, machine learning, and data-driven solutions. Alongside my journey in AI, I’m also passionate about UI/UX design and front-end development, where I craft beautiful, interactive, and user-friendly websites.
